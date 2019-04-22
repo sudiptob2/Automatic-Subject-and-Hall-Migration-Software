@@ -1,0 +1,44 @@
+<svg viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<style>
+            .a
+            {
+                fill:#f89c27;
+            }
+            
+            .b,.c,.d
+            {
+                fill:none;
+                stroke:#fff;
+                stroke-width:1.0;
+            }
+            
+            .b, .d
+            {
+                stroke-miterlimit:10;
+            }
+            
+            .c, .d
+            {
+                stroke-linecap:round;
+            }
+            
+            .c
+            {
+                stroke-linejoin:round;
+            }</style>
+	</defs>
+	<title>CAR-AoG 16854 CV Builder Graphics_v2</title>
+	<circle class="a" cx="25" cy="25" r="25"/>
+	<path class="b" d="M35.74,17.84l-6.68-6.68H14.26V38.84H35.74Zm0,0"/>
+	<path class="c" d="M29.06,11.16v6.68h6.68Zm0,0"/>
+	<line class="d" x1="24.05" x2="31.58" y1="20.8" y2="20.8"/>
+	<line class="d" x1="24.05" x2="31.58" y1="25.68" y2="25.68"/>
+	<line class="d" x1="24.05" x2="31.58" y1="31.72" y2="31.72"/>
+	<line class="d" x1="19.64" x2="22.26" y1="32.33" y2="29.72"/>
+	<line class="d" x1="18.23" x2="19.65" y1="30.91" y2="32.34"/>
+	<line class="d" x1="19.64" x2="22.26" y1="26.83" y2="24.22"/>
+	<line class="d" x1="18.23" x2="19.65" y1="25.41" y2="26.84"/>
+	<line class="d" x1="19.64" x2="22.26" y1="21.83" y2="19.22"/>
+	<line class="d" x1="18.23" x2="19.65" y1="20.41" y2="21.84"/>
+</svg>
